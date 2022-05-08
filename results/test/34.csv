@@ -1,0 +1,22 @@
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+
+libgomp: Invalid value for environment variable OMP_NUM_THREADS
+4.007
+04/24/2022 00:15, distributed, 20c, 4, pdp_long, data/graf_mbp/graf_15_5.txt, 04/24/2022 00:15, distributed, 20c, 4, pdp_long, data/graf_mbp/graf_15_6.txt, 04/24/2022 00:15, distributed, 20c, 4, pdp_long, data/graf_mbp/graf_15_8.txt, 1.926
+3.907
+--------------------------------------------------------------------------
+ORTE has lost communication with a remote daemon.
+
+  HNP daemon   : [[6529,0],0] on node node-020
+  Remote daemon: [[6529,0],1] on node node-021
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+--------------------------------------------------------------------------

@@ -1,1 +1,1 @@
-# distributed-max-bipartite-subgraph
+# Distributed algorithm for a maximum bipartite subgraph problem

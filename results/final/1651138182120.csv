@@ -1,0 +1,11 @@
+04/28/2022 11:29, distributed, 20c, 2, pdp_long, data/grafs_final/graf-t_AD-n_15-k_7__b.txt, 10, , --------------------------------------------------------------------------
+ORTE has lost communication with a remote daemon.
+
+  HNP daemon   : [[2934,0],0] on node node-020
+  Remote daemon: [[2934,0],1] on node node-023
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+--------------------------------------------------------------------------
